@@ -47,11 +47,11 @@ body {
   line-height: 1;
 }
 
-ol, ul {
-  /* list-style: none; */
+#shop ol, ul {
+  list-style: none;
 }
-ol, ul, li{
-  /* padding: 0; */
+#shop ol, ul, li{
+  padding: 0;
 }
 
 blockquote, q {
