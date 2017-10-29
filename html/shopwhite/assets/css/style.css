@@ -102,7 +102,7 @@ h2.header, h3.header {
 }
 
 h1 {
-  font-size: 64px;
+  font-size: 58px;
   line-height: 78px;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
@@ -110,14 +110,14 @@ h1 {
 
 @media screen and (max-width: 650px) {
   h1 {
-    font-size: 44px;
+    font-size: 40px;
     line-height: 54px;
   }
 }
 
 @media screen and (max-width: 480px) {
   h1 {
-    font-size: 34px;
+    font-size: 31px;
     line-height: 44px;
   }
 }
@@ -143,92 +143,92 @@ h1.heading.right {
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 38px;
   line-height: 45px;
 }
 
 @media screen and (max-width: 650px) {
   h2 {
-    font-size: 34px;
+    font-size: 31px;
     line-height: 40px;
   }
 }
 
 @media screen and (max-width: 480px) {
   h2 {
-    font-size: 28px;
+    font-size: 26px;
     line-height: 34px;
   }
 }
 
 h2.small {
-  font-size: 28px;
+  font-size: 26px;
   line-height: 33px;
 }
 
 @media screen and (max-width: 480px) {
   h2.small {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 30px;
   }
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 32px;
 }
 
 h3.big {
-  font-size: 42px;
+  font-size: 38px;
   line-height: 45px;
 }
 
 @media screen and (max-width: 650px) {
   h3.big {
-    font-size: 34px;
+    font-size: 31px;
     line-height: 40px;
   }
 }
 
 @media screen and (max-width: 480px) {
   h3.big {
-    font-size: 28px;
+    font-size: 26px;
     line-height: 34px;
   }
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 22px;
   font-family: "Roboto", sans-serif;
 }
 
 h4.big {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 32px;
 }
 
 h5 {
-  font-size: 16px;
+  font-size: 15px;
   line-height: 20px;
   font-family: "Roboto", sans-serif;
 }
 
 h6 {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 18px;
   font-family: "Roboto", sans-serif;
 }
 
 h2.heading, h3.heading {
   font-family: "Montserrat", sans-serif;
-  font-size: 26px;
+  font-size: 24px;
   line-height: 32px;
   font-weight: 400;
 }
 
 h2.heading span, h3.heading span {
-  font-size: 35px;
+  font-size: 33px;
 }
 
 a {
