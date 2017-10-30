@@ -102,7 +102,7 @@ h2.header, h3.header {
 }
 
 h1 {
-  font-size: 58px;
+  font-size: 44px;
   line-height: 78px;
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
@@ -4860,7 +4860,7 @@ aside.page-sidebar .widget-wrapper p {
 }
 
 #post-header .text .post-meta h1 {
-  line-height: 40px;
+  line-height: 55px;
   font-size: 52px;
 }
 
