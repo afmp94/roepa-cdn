@@ -6577,7 +6577,6 @@ table {
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 1px;
-  border: 1px solid #E6E7E8 !important;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
 }
@@ -6586,14 +6585,14 @@ table th {
   background: #527a99;
   color: white;
   text-align: left;
-  padding: 15px !important;
+  padding: 8px !important;
   border: 1px solid #E6E7E8;
   font-family: "Montserrat", sans-serif;
 }
 
 table td {
-  padding: 15px !important;
-  border: 1px solid #E6E7E8;
+  padding: 8px !important;
+  border-top: 1px solid #E6E7E8;
 }
 
 .alert {
