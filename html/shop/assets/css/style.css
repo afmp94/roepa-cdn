@@ -7719,3 +7719,10 @@ button.mfp-close:hover {
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
 }
+
+
+
+.search-config{
+  margin-bottom: 0px !important;
+  max-width: 200px !important;
+}
