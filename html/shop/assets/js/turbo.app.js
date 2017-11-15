@@ -1,3 +1,5 @@
+document.addEventListener("turbolinks:load", function() {
+
 var $ = jQuery.noConflict();
 
 (function($) {
@@ -318,6 +320,8 @@ var $ = jQuery.noConflict();
         });
     });
 })(jQuery);
+
+}
 
 document.addEventListener("turbolinks:load", function() {
     "use strict";
