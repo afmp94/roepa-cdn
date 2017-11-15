@@ -1,5 +1,5 @@
 var $ = jQuery.noConflict();
-
+/*(function($) {*/
 document.addEventListener("turbolinks:load", function() {
     "use strict";
 
@@ -317,7 +317,9 @@ document.addEventListener("turbolinks:load", function() {
             }
         });
     });
-})(jQuery);
+});
+
+/*})(jQuery);*/
 
 document.addEventListener("turbolinks:load", function() {
     "use strict";
