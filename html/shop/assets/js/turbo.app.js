@@ -1,8 +1,6 @@
-document.addEventListener("turbolinks:load", function() {
-
 var $ = jQuery.noConflict();
 
-(function($) {
+document.addEventListener("turbolinks:load", function() {
     "use strict";
 
     var width  =  $(window).width();
@@ -320,9 +318,6 @@ var $ = jQuery.noConflict();
         });
     });
 })(jQuery);
-
-});
-
 
 document.addEventListener("turbolinks:load", function() {
     "use strict";
