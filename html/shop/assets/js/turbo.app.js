@@ -321,7 +321,8 @@ var $ = jQuery.noConflict();
     });
 })(jQuery);
 
-}
+});
+
 
 document.addEventListener("turbolinks:load", function() {
     "use strict";
