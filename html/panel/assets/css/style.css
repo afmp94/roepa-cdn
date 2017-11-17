@@ -2342,3 +2342,7 @@ h3.timeline-title {
   vertical-align: middle;
   display: inline-block;
   height: 17px; }
+  /* Customized */
+.sm-margin{
+  margin-bottom: 5px  !important;
+}
