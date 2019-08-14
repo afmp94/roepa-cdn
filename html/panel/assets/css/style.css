@@ -2346,3 +2346,11 @@ h3.timeline-title {
 .sm-margin{
   margin-bottom: 5px  !important;
 }
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.icon-color .fa {
+  color: #204d74;
+}
