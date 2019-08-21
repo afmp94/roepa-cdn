@@ -2354,3 +2354,21 @@ h3.timeline-title {
 .icon-color .fa {
   color: #204d74;
 }
+
+.dropzone-view-main {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin: 16px;
+  min-height: 100px;
+}
+
+.dropzone-view-sub {
+  border-radius: 20px;
+  overflow: hidden;
+  width: 120px;
+  height: 120px;
+  position: relative;
+  display: block;
+  z-index: 10;
+}
